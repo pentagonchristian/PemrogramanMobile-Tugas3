@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Task3</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_up_left_text">Need an account?</string>
+    <string name="login">Login</string>
+    <string name="reset_password">Forgot password?</string>
+    <string name="remember_me">Remember me</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="login_activity_title">LOGIN</string>
+    <string name="register_activity_title">Register</string>
+    <string name="repeat_password">Repeat password</string>
+    <string name="register">Register</string>
+    <string name="login_left_text">Already have an account?</string>
+    <string name="remember_password">Remember password?</string>
+    <string name="btn_reset_password">Reset password</string>
+    <string name="logout">Logout</string>
+    <string name="welcome_to_my_application_enjoy">Welcome To My Application, Enjoy</string>
+</resources>
